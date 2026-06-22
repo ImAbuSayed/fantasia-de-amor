@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fantasia-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Fantasía de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fantasia-de-amor/) |
+| **Get License** | [Get License For Fantasía de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fantasia-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche te dejas llevar
+> Bajo la luna que nos quiere mirar
+> Tus ojos negros me invitan a pecar
+> Sayed te jura que no va a fallar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
