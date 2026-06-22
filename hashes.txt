@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Fantasía de amor
+
+This log tracks the cryptographic history and versioning for the song **Fantasía de amor** (fantasia-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T03:56:41.593718 | `v1` | `6e04294c3499152cf738201c306d7bf917f8735fc595bddf9e0a88eef34e41ea` | `3e16b4574e890b090922c6dc0ad09d80755ef8c0d3dcbb30279889a41d35c16d` | `2026-06-23_fantasia-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
